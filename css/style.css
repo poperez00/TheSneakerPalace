@@ -1369,13 +1369,6 @@ h6 {
 
 /* Importación de fuentes de google fonts */
 
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
-body {
-    height: 100%;
-    font-family: 'Noto Sans', sans-serif;
-    background-color: white;
-}
-
 .contact_form {
     width: 460px;
     height: auto;
