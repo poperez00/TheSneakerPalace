@@ -10,7 +10,7 @@ Este proyecto está realizado por: Pablo Perez Jimenez y Alejandro Lay Velasco
   	* Nike
   	* Adidas
   	* Jordan
-  	* Converse
+  	* Converse 
   	* Funkos
   	* ...etc
 
